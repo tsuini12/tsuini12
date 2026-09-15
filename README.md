@@ -158,39 +158,6 @@ Plataforma desarrollada durante mi formación académica para la gestión de inf
 
 ---
 
-### 🌐 Proyecto Web
-
-Aplicación web desarrollada utilizando tecnologías modernas de frontend.
-
-**Tecnologías:**  
-`React` · `Vite` · `JavaScript`
-
-🔗 [Ver proyecto](#)
-
----
-
-### ⚙️ Automatización de procesos
-
-Solución orientada a la automatización e integración de procesos entre diferentes sistemas.
-
-**Tecnologías:**  
-`APIs` · `ETL` · `Automatización`
-
-🔗 [Ver proyecto](#)
-
----
-
-### 📱 Aplicación móvil
-
-Aplicación desarrollada para dispositivos móviles utilizando tecnologías híbridas.
-
-**Tecnologías:**  
-`Ionic` · `Angular` · `TypeScript`
-
-🔗 [Ver proyecto](#)
-
----
-
 ## 📫 Contacto
 
 - 💼 LinkedIn: [Mi LinkedIn](#)
