@@ -160,6 +160,6 @@ Plataforma desarrollada durante mi formación académica para la gestión de inf
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/elias-romero-cortes-666116289/](#)
-- 🐙 GitHub: [https://github.com/tsuini12](#)
+- 💼 LinkedIn: [Mi Linkedin]((https://www.linkedin.com/in/elias-romero-cortes-666116289/))
+- 🐙 GitHub: [Mi GitHub](https://github.com/tsuini12)
 - 📧 Email: `e.j.romero.cortes@gmail.com`
