@@ -1,221 +1,198 @@
 <div align="center">
-# 👋 ¡Hola! Soy Tsuini
 
-### 💻 Ingeniero en Informática | Automatización | Desarrollo | IA
+# Hola, soy Tsuini 👋
 
-<p>
-  <em>
-    Transformando problemas y procesos repetitivos en soluciones digitales.
-  </em>
-</p>
+### Ingeniero en Informática
 
-<p>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+Desarrollo de soluciones tecnológicas, automatización de procesos e integración de sistemas.
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy **Ingeniero en Informática**, apasionado por la tecnología y por encontrar nuevas formas de mejorar procesos mediante software y automatización.
+Soy **Ingeniero en Informática**, con experiencia en desarrollo de software, automatización de procesos, integración de sistemas y gestión de plataformas empresariales.
 
-Me interesa especialmente convertir tareas repetitivas o procesos complejos en soluciones simples, eficientes y escalables.
+Me interesa especialmente encontrar oportunidades donde la tecnología permita **optimizar procesos, reducir tareas repetitivas y mejorar la eficiencia**.
 
-Actualmente exploro constantemente nuevas herramientas de **Inteligencia Artificial**, automatización e integración de sistemas para mejorar la forma en que desarrollamos y trabajamos.
+También tengo interés en el uso de **Inteligencia Artificial** como herramienta para automatizar y mejorar procesos de desarrollo y trabajo.
 
 ---
 
-## 🚀 ¿En qué trabajo?
+## 🎓 Estudios
 
-<table>
-<tr>
+**Ingeniería en Informática**  
+Duoc UC · 2019 — 2022
 
-<td width="50%">
+Durante mi formación participé en proyectos de desarrollo de aplicaciones y soluciones orientadas a la gestión de información.
 
-### ⚙️ Automatización
+**Proyecto académico destacado:**  
+Plataforma de Gestión Agrícola y Comercialización.
 
-- Automatización de procesos
-- Integración entre sistemas
-- APIs y servicios externos
-- Flujos de trabajo
-- Optimización de procesos
+---
 
-</td>
+## 💼 Experiencia
 
-<td width="50%">
+### Desarrollo y automatización
 
-### 💻 Desarrollo
+Experiencia trabajando en soluciones orientadas a:
 
-- Aplicaciones Web
-- React
-- JavaScript / TypeScript
-- Ionic / Angular
-- HTML / CSS
-- Desarrollo de APIs
+- Automatización de procesos empresariales.
+- Desarrollo de aplicaciones y funcionalidades personalizadas.
+- Integración entre diferentes sistemas mediante APIs.
+- Automatización de flujos de trabajo.
+- Procesamiento y transformación de datos.
+- Desarrollo de soluciones sobre plataformas empresariales.
+- Optimización de procesos manuales y repetitivos.
+- Implementación de soluciones utilizando herramientas de Inteligencia Artificial.
 
-</td>
+### ServiceNow
 
-</tr>
+Experiencia en desarrollo y configuración de soluciones utilizando:
 
-<tr>
-
-<td width="50%">
-
-### 🤖 Inteligencia Artificial
-
-- Automatización asistida por IA
-- Uso de LLMs
-- Integración de herramientas de IA
-- Optimización de tareas repetitivas
-
-</td>
-
-<td width="50%">
-
-### 📊 Datos
-
-- ETL
-- Transformación de información
-- Homologación de datos
+- Business Rules
+- Script Includes
+- Flow Designer
+- UI Actions
+- ACLs
+- Data Policies
+- Transform Maps
 - Integraciones
-- Procesamiento de información
-
-</td>
-
-</tr>
-</table>
+- Automatización de procesos
+- Generación y gestión de documentos
 
 ---
 
-## 🛠️ Tecnologías
+## 💻 Lenguajes
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css" />
+</p>
 
-### Lenguajes
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python" />
-
-### Frameworks & Desarrollo
-
-<img src="https://skillicons.dev/icons?i=react,angular,ionic,vite,nodejs" />
-
-### Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-
-</div>
+- JavaScript
+- TypeScript
+- Python
+- Java
+- HTML
+- CSS
 
 ---
 
-## 🔧 Tecnologías y plataformas
+## 🚀 Frameworks y tecnologías
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,angular,ionic,nodejs" />
+</p>
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitrix24](https://img.shields.io/badge/Bitrix24-2FC7F7?style=for-the-badge&logo=bitrix24&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Frontend
+- React
+- Angular
+- Ionic
+- Vite
+- HTML / CSS
 
-</div>
+### Backend y desarrollo
+- Node.js
+- APIs REST
+- Integraciones entre sistemas
 
----
-
-## 📌 Proyectos destacados
-
-### 🌱 Plataforma de Gestión Agrícola
-
-Plataforma desarrollada como proyecto académico para la **gestión agrícola y comercialización de productos**.
-
-**Tecnologías:** Desarrollo Web · Bases de Datos · Gestión de información
-
----
-
-### 🤖 Automatización de procesos
-
-Desarrollo de soluciones orientadas a reducir tareas manuales y repetitivas mediante automatización e integración entre plataformas.
-
-**Áreas:** APIs · ETL · Automatización · IA
+### Plataformas y herramientas
+- ServiceNow
+- Bitrix24
+- Microsoft Azure
+- Power BI
+- Postman
+- Git / GitHub
 
 ---
 
-### 🌐 Aplicaciones Web
+## 🗄️ Bases de datos
 
-Desarrollo de aplicaciones web modernas utilizando tecnologías como **React, Vite, JavaScript y APIs**.
+Conocimientos en:
 
----
-
-## 📚 Formación
-
-🎓 **Ingeniería en Informática**
-
-**Duoc UC**  
-2019 — 2022
-
-Proyecto académico:
-
-> Plataforma de Gestión Agrícola y Comercialización
+- MySQL
+- PostgreSQL
+- SQL
+- Diseño y consulta de bases de datos
+- Manipulación y transformación de información
+- Integración de aplicaciones con bases de datos
 
 ---
 
-## 🧠 Mi enfoque
+## 🔄 Datos y ETL
 
-<div align="center">
+Experiencia y conocimientos en procesos de:
 
-### "Si un proceso puede automatizarse, probablemente pueda mejorarse."
-
-</div>
-
-Me gusta analizar primero el problema y posteriormente buscar la solución tecnológica más adecuada.
-
-No se trata solamente de desarrollar software, sino de encontrar **cómo la tecnología puede generar un impacto real en un proceso**.
+- Extracción de información
+- Transformación de datos
+- Homologación de estructuras
+- Carga de información
+- Automatización de procesos ETL
+- Integración de diferentes fuentes de datos
 
 ---
 
-## 📈 GitHub
+## 🤖 Inteligencia Artificial
 
-<div align="center">
+Uso de herramientas de Inteligencia Artificial orientadas a:
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+- Automatización de tareas repetitivas.
+- Asistencia en desarrollo de software.
+- Generación y análisis de información.
+- Optimización de procesos.
+- Integración de IA en soluciones tecnológicas.
 
-<br>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+## 📂 Proyectos
 
-</div>
+### 🌱 Plataforma de Gestión Agrícola y Comercialización
+
+Plataforma desarrollada durante mi formación académica para la gestión de información agrícola y comercialización.
+
+**Tecnologías:**  
+`Web` · `Base de datos` · `Gestión de información`
+
+🔗 [Ver proyecto](#)
+
+---
+
+### 🌐 Proyecto Web
+
+Aplicación web desarrollada utilizando tecnologías modernas de frontend.
+
+**Tecnologías:**  
+`React` · `Vite` · `JavaScript`
+
+🔗 [Ver proyecto](#)
+
+---
+
+### ⚙️ Automatización de procesos
+
+Solución orientada a la automatización e integración de procesos entre diferentes sistemas.
+
+**Tecnologías:**  
+`APIs` · `ETL` · `Automatización`
+
+🔗 [Ver proyecto](#)
+
+---
+
+### 📱 Aplicación móvil
+
+Aplicación desarrollada para dispositivos móviles utilizando tecnologías híbridas.
+
+**Tecnologías:**  
+`Ionic` · `Angular` · `TypeScript`
+
+🔗 [Ver proyecto](#)
 
 ---
 
 ## 📫 Contacto
 
-<div align="center">
-
-¿Tienes un proyecto, una idea o simplemente quieres conversar sobre tecnología?
-
-<br><br>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Contactar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Gracias por visitar mi perfil
-
-</div>
-```
+- 💼 LinkedIn: [Mi LinkedIn](#)
+- 🐙 GitHub: [Mi GitHub](#)
+- 📧 Email: `tu-correo@email.com`
